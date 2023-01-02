@@ -1,0 +1,17 @@
+O Git Bash é um terminal estendido para otimizar o uso do Git
+
+CHAVE SSH
+
+é uma forma de estabelecer uma conexão segura e incriptável entre duas máquinas
+
+mkdir (nome): criar pasta
+
+lc: listar
+
+Crtl + L: limpar
+
+git init - criar um repositorio no git dentro de uma pasta
+
+git add *
+
+git commit -m “frase”
